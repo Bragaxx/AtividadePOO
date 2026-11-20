@@ -1,0 +1,2 @@
+Quadrado Azul - Area: 16,00
+Circulo Vermelho - Area: 28,27

@@ -1,0 +1,3 @@
+Diretor: Acesso permitido.
+Cliente com senha correta: Acesso permitido.
+Cliente com senha incorreta: Acesso negado.

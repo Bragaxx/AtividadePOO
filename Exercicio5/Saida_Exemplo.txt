@@ -1,0 +1,10 @@
+FICHA DO FUNCIONARIO
+Nome: Carlos
+Salario-base: R$ 3000,00
+
+FICHA DO GERENTE
+Nome: Mariana
+Salario-base: R$ 5000,00
+Cargo: Gerente
+Bonus de escopo: R$ 1000,00
+Vencimentos: R$ 7000,00

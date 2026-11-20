@@ -1,0 +1,3 @@
+Dois inteiros: 30
+Dois decimais: 6.2
+Tres inteiros: 6

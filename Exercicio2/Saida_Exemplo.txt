@@ -1,0 +1,5 @@
+Titular: Ana | Saldo: R$ 120,00
+Erro: saldo insuficiente para realizar o saque.
+Saldo apos tentativa recusada: R$ 120,00
+O titular nao pode ser vazio.
+O saldo deve ser finito e nao negativo.

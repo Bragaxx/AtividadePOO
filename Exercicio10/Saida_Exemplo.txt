@@ -1,0 +1,5 @@
+Livro: Dom Casmurro | Autor: Machado de Assis | Preco: R$ 39,90
+Eletronico: Fone de ouvido | Garantia: 12 meses | Preco: R$ 150,00
+Total do pedido: R$ 189,90
+Produto recusado: O preco deve ser finito e maior que zero.
+Total apos tentativa invalida: R$ 189,90

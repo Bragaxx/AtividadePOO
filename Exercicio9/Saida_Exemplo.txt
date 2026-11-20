@@ -1,0 +1,4 @@
+Saque recusado: Saldo insuficiente para realizar o saque.
+Saldo apos falha: R$ 100,00
+Saque de R$ 40,00 realizado.
+Saldo final: R$ 60,00
